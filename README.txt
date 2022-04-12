@@ -12,4 +12,8 @@ we are back from html branch
 we are now in css branch
 >>>>>>> css-assignments
 
+<<<<<<< HEAD
 we are back from js branch
+=======
+now we are in js branch
+>>>>>>> js-assignments
